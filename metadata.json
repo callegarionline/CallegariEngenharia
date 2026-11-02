@@ -1,0 +1,6 @@
+{
+  "name": "Callegari Engenharia",
+  "description": "Assistência Técnica Judicial, Laudo Pericial de Avaliação Imobiliária, Contestação de ITBI/IPTU e Engenharia Legal em todo o Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
